@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Sayur Rumahan",
+    "slug": "vegetable",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "0.7",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "androidStatusBar": {
+      "translucent": true
+    },
+    "notification": {
+      "icon": "./assets/ic_notification.png",
+      "color": "#427332"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "enabled": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "useNextNotificationsApi": true,
+      "package": "com.sayurrumahan.mobile",
+      "icon": "./assets/icon.png",
+      "versionCode": 7,
+      "googleServicesFile": "./assets/google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sayurrumahan.mobile",
+      "icon": "./assets/icon_ios.png",
+      "buildNumber": "7",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "Give Sayur Rumahan access to the camera roll to upload and save the image you choose to complete the form",
+        "NSCameraUsageDescription": "Give Sayur Rumahan access to the camera to upload and save captured images to complete the form"
+      }
+    }
+  }
+}

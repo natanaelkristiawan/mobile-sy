@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "992139981158",
+    "firebase_url": "https://total-pad-286708.firebaseio.com",
+    "project_id": "total-pad-286708",
+    "storage_bucket": "total-pad-286708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992139981158:android:daab0d4013b7e6541998a7",
+        "android_client_info": {
+          "package_name": "com.sayurrumahan.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992139981158-75a0764ema5cregh4phaehof3a3eoor5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayurrumahan.mobile",
+            "certificate_hash": "5479c306ad078386c8b0cb6462165032612d35cd"
+          }
+        },
+        {
+          "client_id": "992139981158-ihc1dmqijcm7pvr7aracup7qth40h0de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvpQLPsAY5VQg8vveepT6SId-QmDoPisE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992139981158-ihc1dmqijcm7pvr7aracup7qth40h0de.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992139981158-u9pmvod1cgqvib78n7eeobis9pj4buh1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sayurrumahan.mobiletest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992139981158:android:f3451846ff483d441998a7",
+        "android_client_info": {
+          "package_name": "com.sayurrumahan.mobiletest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992139981158-56b3fv1140o21g1uab8svq5g14snaa9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayurrumahan.mobiletest",
+            "certificate_hash": "5479c306ad078386c8b0cb6462165032612d35cd"
+          }
+        },
+        {
+          "client_id": "992139981158-ihc1dmqijcm7pvr7aracup7qth40h0de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvpQLPsAY5VQg8vveepT6SId-QmDoPisE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992139981158-ihc1dmqijcm7pvr7aracup7qth40h0de.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992139981158-u9pmvod1cgqvib78n7eeobis9pj4buh1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sayurrumahan.mobiletest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
